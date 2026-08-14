@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# Git files
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
